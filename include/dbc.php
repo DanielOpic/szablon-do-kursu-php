@@ -10,4 +10,5 @@
     if(mysqli_connect_errno()){
         die('Błąd w połaczeniu do bazy');
     }
+    
 ?>
