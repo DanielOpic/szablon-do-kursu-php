@@ -6,5 +6,6 @@
 <META NAME="keywords" CONTENT="PHP, kurs, Geek Factory">
 <META NAME="author" CONTENT="Geek Factory">
 
+<LINK href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700&display=swap&subset=latin-ext" rel="stylesheet">
 
-<LINK rel="stylesheet" href="main.css"/>
+<LINK rel="stylesheet" href="css/website/main.css"/>
